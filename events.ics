@@ -4,68 +4,6 @@ PRODID:-//wp-events-plugin.com//7.2.3.1//EN
 TZID:Europe/London
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:6592@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260404
-DTEND;TZID=Europe/London;VALUE=DATE:20260405
-DTSTAMP:20260107T113049Z
-URL:https://www.rsobhd.net/events/european-open-championships/
-SUMMARY:European Open Championships & Supporting Events
-DESCRIPTION:Entry form\; European Championship &amp\; Supporting Events 04.
- 04.26
-CATEGORIES:Championship,Competition
-LOCATION:International School\, N Deeside Road\, Aberdeen\, AB15 9PN\, Unit
- ed Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=N Deeside Road\, Aberdeen\,
-  AB15 9PN\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=International School
- :geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6894@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260404
-DTEND;TZID=Europe/London;VALUE=DATE:20260405
-DTSTAMP:20260121T111237Z
-URL:https://www.rsobhd.net/events/kathryn-stewart-school-of-highland-dance
- -loughbrickland/
-SUMMARY:Kathryn Stewart School of Highland Dance - Loughbrickland
-DESCRIPTION:Entries open - 4th March @ 9am\n\nEntry form\; KSSOHD Competiti
- on - Loughbrickland 04.04.2026
-CATEGORIES:Competition
-LOCATION:Sir Henry Wilson Memorial Hall\, 17 Scarva St\, Loughbrickland\, B
- anbridge\, BT32 3NH\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=17 Scarva St\, Loughbrickla
- nd\, Banbridge\, BT32 3NH\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Sir 
- Henry Wilson Memorial Hall:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6866@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260408
-DTEND;TZID=Europe/London;VALUE=DATE:20260409
-DTSTAMP:20260114T231152Z
-URL:https://www.rsobhd.net/events/obhdsa-2026-cpd-event-hornpipe-earl-of-e
- rrol/
-SUMMARY:OBHD(SA) 2026 CPD Event - Hornpipe/ Earl of Errol
-DESCRIPTION:1hr - Hornpipe/ Earl of Errol\nTime: 7pm to 8pm
-CATEGORIES:Judges CPD Lecture
-LOCATION:.\, .\, .\, South Africa
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, South Africa;X-APPL
- E-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6906@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260411
-DTEND;TZID=Europe/London;VALUE=DATE:20260412
-DTSTAMP:20260128T154720Z
-URL:https://www.rsobhd.net/events/burnett-school-of-dancing-fraserburgh/
-SUMMARY:Burnett School of Dancing (Fraserburgh)
-DESCRIPTION:Entry form\; Burnett School of Dancing (Fraserburgh) 11.04.26
-CATEGORIES:Competition
-LOCATION:St Combs Community Hall\, Corsekelly Place\, St Combs\, AB43 8ZS\,
-  United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Corsekelly Place\, St Combs
- \, AB43 8ZS\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=St Combs Community
-  Hall:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6570@rsobhd.net
 DTSTART;TZID=Europe/London:20260411T000000
 DTEND;TZID=Europe/London:20260411T000000
@@ -79,32 +17,6 @@ CATEGORIES:Championship,Competition
 LOCATION:.\, .\, Tranent\, United Kingdom
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Tranent\, United Kingdo
  m;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6622@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260411
-DTEND;TZID=Europe/London;VALUE=DATE:20260412
-DTSTAMP:20250922T211113Z
-URL:https://www.rsobhd.net/events/northern-canadian-open-championships/
-SUMMARY:Northern Canadian Open Championships
-DESCRIPTION:
-CATEGORIES:Championship
-LOCATION:.\, .\, Edmonton\, AB\, Canada
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Edmonton\, AB\, Canada;
- X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6598@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260411
-DTEND;TZID=Europe/London;VALUE=DATE:20260412
-DTSTAMP:20260118T112308Z
-URL:https://www.rsobhd.net/events/sacramento-valley-open-championships/
-SUMMARY:Sacramento Valley Open Championships
-DESCRIPTION:*CHANGE OF DATE*
-CATEGORIES:Championship
-LOCATION:.\, .\, Woodland\, CA\, United States
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Woodland\, CA\, United 
- States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6768@rsobhd.net
@@ -122,6 +34,34 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Newton Road\, Wick\, KW1 5L
  pus:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6906@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260411
+DTEND;TZID=Europe/London;VALUE=DATE:20260412
+DTSTAMP:20260128T154720Z
+URL:https://www.rsobhd.net/events/burnett-school-of-dancing-fraserburgh/
+SUMMARY:Burnett School of Dancing (Fraserburgh)
+DESCRIPTION:Entry form\; Burnett School of Dancing (Fraserburgh) 11.04.26
+CATEGORIES:Competition
+LOCATION:St Combs Community Hall\, Corsekelly Place\, St Combs\, AB43 8ZS\,
+  United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Corsekelly Place\, St Combs
+ \, AB43 8ZS\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=St Combs Community
+  Hall:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6598@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260411
+DTEND;TZID=Europe/London;VALUE=DATE:20260412
+DTSTAMP:20260118T112308Z
+URL:https://www.rsobhd.net/events/sacramento-valley-open-championships/
+SUMMARY:Sacramento Valley Open Championships
+DESCRIPTION:*CHANGE OF DATE*
+CATEGORIES:Championship
+LOCATION:.\, .\, Woodland\, CA\, United States
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Woodland\, CA\, United 
+ States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6595@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260411
 DTEND;TZID=Europe/London;VALUE=DATE:20260412
@@ -133,20 +73,6 @@ CATEGORIES:Championship
 LOCATION:.\, .\, Dunedin\, Florida\, United States
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Dunedin\, Florida\, Uni
  ted States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6623@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260411
-DTEND;TZID=Europe/London;VALUE=DATE:20260412
-DTSTAMP:20250922T211227Z
-URL:https://www.rsobhd.net/events/niagara-open-in-memory-of-paulina-mcmast
- er/
-SUMMARY:Niagara Open in Memory of Paulina McMaster
-DESCRIPTION:
-CATEGORIES:Championship,Competition
-LOCATION:.\, .\, Niagara Falls\, ON\, Canada
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Niagara Falls\, ON\, Ca
- nada;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6851@rsobhd.net
@@ -164,12 +90,55 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=9 Old Monkland Road\, Coatb
  munity Centre:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6622@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260411
+DTEND;TZID=Europe/London;VALUE=DATE:20260412
+DTSTAMP:20250922T211113Z
+URL:https://www.rsobhd.net/events/northern-canadian-open-championships/
+SUMMARY:Northern Canadian Open Championships
+DESCRIPTION:
+CATEGORIES:Championship
+LOCATION:.\, .\, Edmonton\, AB\, Canada
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Edmonton\, AB\, Canada;
+ X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6623@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260411
+DTEND;TZID=Europe/London;VALUE=DATE:20260412
+DTSTAMP:20250922T211227Z
+URL:https://www.rsobhd.net/events/niagara-open-in-memory-of-paulina-mcmast
+ er/
+SUMMARY:Niagara Open in Memory of Paulina McMaster
+DESCRIPTION:
+CATEGORIES:Championship,Competition
+LOCATION:.\, .\, Niagara Falls\, ON\, Canada
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Niagara Falls\, ON\, Ca
+ nada;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6823@rsobhd.net
 DTSTART;TZID=Australia/Brisbane;VALUE=DATE:20260411
 DTEND;TZID=Australia/Brisbane;VALUE=DATE:20260412
 DTSTAMP:20260112T223647Z
 URL:https://www.rsobhd.net/events/the-australian-championships/
 SUMMARY:The Australian Championships
+DESCRIPTION:Promoter: SQRCHDI
+CATEGORIES:Championship
+LOCATION:Gold Coast Sports & Leisure Centre\, 296 Nerang-Broadbeach Road\, 
+ Carrara\, QLD\, 4211\, Australia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=296 Nerang-Broadbeach Road\
+ , Carrara\, QLD\, 4211\, Australia;X-APPLE-RADIUS=100;X-TITLE=Gold Coast S
+ ports & Leisure Centre:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6286@rsobhd.net
+DTSTART;TZID=Australia/Brisbane;VALUE=DATE:20260412
+DTEND;TZID=Australia/Brisbane;VALUE=DATE:20260413
+DTSTAMP:20260112T223952Z
+URL:https://www.rsobhd.net/events/champion-of-champions-championship-of-au
+ stralia-5/
+SUMMARY:Champion of Champions Championship of Australia
 DESCRIPTION:Promoter: SQRCHDI
 CATEGORIES:Championship
 LOCATION:Gold Coast Sports & Leisure Centre\, 296 Nerang-Broadbeach Road\, 
@@ -207,22 +176,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Woodland\, CA\, United
  States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6286@rsobhd.net
-DTSTART;TZID=Australia/Brisbane;VALUE=DATE:20260412
-DTEND;TZID=Australia/Brisbane;VALUE=DATE:20260413
-DTSTAMP:20260112T223952Z
-URL:https://www.rsobhd.net/events/champion-of-champions-championship-of-au
- stralia-5/
-SUMMARY:Champion of Champions Championship of Australia
-DESCRIPTION:Promoter: SQRCHDI
-CATEGORIES:Championship
-LOCATION:Gold Coast Sports & Leisure Centre\, 296 Nerang-Broadbeach Road\, 
- Carrara\, QLD\, 4211\, Australia
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=296 Nerang-Broadbeach Road\
- , Carrara\, QLD\, 4211\, Australia;X-APPLE-RADIUS=100;X-TITLE=Gold Coast S
- ports & Leisure Centre:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6907@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260418
 DTEND;TZID=Europe/London;VALUE=DATE:20260419
@@ -237,19 +190,6 @@ GEO:56.0615391;-3.4508169000000635
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Jennie Rennies Road\, Dunfe
  rmline\, KY11 3BQ\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Dunfermline 
  High School:geo:56.0615391,-3.4508169000000635
-END:VEVENT
-BEGIN:VEVENT
-UID:6596@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260418
-DTEND;TZID=Europe/London;VALUE=DATE:20260419
-DTSTAMP:20250922T202201Z
-URL:https://www.rsobhd.net/events/carolinas-open-championships/
-SUMMARY:Carolinas Open Championships
-DESCRIPTION:
-CATEGORIES:Championship
-LOCATION:.\, .\, Huntersville\, North Carolina\, United States
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Huntersville\, North Ca
- rolina\, United States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6976@rsobhd.net
@@ -282,6 +222,36 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Marigold Drive\, Langlee\,
  re:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6596@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260418
+DTEND;TZID=Europe/London;VALUE=DATE:20260419
+DTSTAMP:20250922T202201Z
+URL:https://www.rsobhd.net/events/carolinas-open-championships/
+SUMMARY:Carolinas Open Championships
+DESCRIPTION:
+CATEGORIES:Championship
+LOCATION:.\, .\, Huntersville\, North Carolina\, United States
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Huntersville\, North Ca
+ rolina\, United States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6571@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260419
+DTEND;TZID=Europe/London;VALUE=DATE:20260420
+DTSTAMP:20260114T112358Z
+URL:https://www.rsobhd.net/events/city-of-glasgow-area-open-championships/
+SUMMARY:City of Glasgow & Area Open Championship & Supporting Events
+DESCRIPTION:Entries open - 8th February @ 7pm\n\nEntry form\; BATD City of 
+ Glasgow Championship &amp\; Supporting Events - 19.04.26
+CATEGORIES:Championship,Competition
+LOCATION:Ravenscraig Sports Centre\, 1 O'Donnell Way\, Motherwell\, North L
+ anarkshire\, ML1 2TZ\, United Kingdom
+GEO:55.79121749999999;-3.961687100000063
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1 O'Donnell Way\, Motherwel
+ l\, North Lanarkshire\, ML1 2TZ\, United Kingdom;X-APPLE-RADIUS=100;X-TITL
+ E=Ravenscraig Sports Centre:geo:55.79121749999999,-3.961687100000063
+END:VEVENT
+BEGIN:VEVENT
 UID:6978@rsobhd.net
 DTSTART;TZID=America/Edmonton;VALUE=DATE:20260419
 DTEND;TZID=America/Edmonton;VALUE=DATE:20260420
@@ -310,36 +280,6 @@ CATEGORIES:Championship
 LOCATION:.\, .\, Bedford\, NS\, Canada
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Bedford\, NS\, Canada;X
  -APPLE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6571@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260419
-DTEND;TZID=Europe/London;VALUE=DATE:20260420
-DTSTAMP:20260114T112358Z
-URL:https://www.rsobhd.net/events/city-of-glasgow-area-open-championships/
-SUMMARY:City of Glasgow & Area Open Championship & Supporting Events
-DESCRIPTION:Entries open - 8th February @ 7pm\n\nEntry form\; BATD City of 
- Glasgow Championship &amp\; Supporting Events - 19.04.26
-CATEGORIES:Championship,Competition
-LOCATION:Ravenscraig Sports Centre\, 1 O'Donnell Way\, Motherwell\, North L
- anarkshire\, ML1 2TZ\, United Kingdom
-GEO:55.79121749999999;-3.961687100000063
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=1 O'Donnell Way\, Motherwel
- l\, North Lanarkshire\, ML1 2TZ\, United Kingdom;X-APPLE-RADIUS=100;X-TITL
- E=Ravenscraig Sports Centre:geo:55.79121749999999,-3.961687100000063
-END:VEVENT
-BEGIN:VEVENT
-UID:6597@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260425
-DTEND;TZID=Europe/London;VALUE=DATE:20260426
-DTSTAMP:20250922T202304Z
-URL:https://www.rsobhd.net/events/east-regional-closed-championships/
-SUMMARY:East Regional Closed Championships
-DESCRIPTION:
-CATEGORIES:Championship
-LOCATION:.\, .\, St Leonard\, MD\, United States
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, St Leonard\, MD\, Unite
- d States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6757@rsobhd.net
@@ -390,37 +330,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Aberdeen\, United Kingd
  om;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6940@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260425
-DTEND;TZID=Europe/London;VALUE=DATE:20260426
-DTSTAMP:20260218T153952Z
-URL:https://www.rsobhd.net/events/tartan-thistle-dance-festival-6/
-SUMMARY:Tartan Thistle Dance Festival
-DESCRIPTION:Entries open - 27th February @ 8pm\n\nEntry form\; Tartan Thist
- le Dance Festival 25.04.26
-CATEGORIES:Competition
-LOCATION:Denham Memorial Village Hall\, Village Road\, Denham\, United King
- dom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Village Road\, Denham\, Uni
- ted Kingdom;X-APPLE-RADIUS=100;X-TITLE=Denham Memorial Village Hall:geo:0,
- 0
-END:VEVENT
-BEGIN:VEVENT
-UID:6725@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260425
-DTEND;TZID=Europe/London;VALUE=DATE:20260426
-DTSTAMP:20251210T082121Z
-URL:https://www.rsobhd.net/events/central-highland-dancing-association-wes
- tpark-9/
-SUMMARY:Central Highland Dancing Association - Westpark
-DESCRIPTION:Entry form\; Central Highland Dancing Association - Westpark 25
- .04.26
-CATEGORIES:Competition
-LOCATION:Bo'ness Academy\, .\, .\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
- PLE-RADIUS=100;X-TITLE=Bo'ness Academy:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6573@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260425
 DTEND;TZID=Europe/London;VALUE=DATE:20260427
@@ -435,6 +344,19 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Aberdeen\, United Kingd
  om;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6597@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260425
+DTEND;TZID=Europe/London;VALUE=DATE:20260426
+DTSTAMP:20250922T202304Z
+URL:https://www.rsobhd.net/events/east-regional-closed-championships/
+SUMMARY:East Regional Closed Championships
+DESCRIPTION:
+CATEGORIES:Championship
+LOCATION:.\, .\, St Leonard\, MD\, United States
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, St Leonard\, MD\, Unite
+ d States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6627@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260425
 DTEND;TZID=Europe/London;VALUE=DATE:20260426
@@ -446,19 +368,6 @@ CATEGORIES:Championship
 LOCATION:.\, .\, London\, Ontario\, Canada
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, London\, Ontario\, Cana
  da;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6626@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260425
-DTEND;TZID=Europe/London;VALUE=DATE:20260426
-DTSTAMP:20250922T211501Z
-URL:https://www.rsobhd.net/events/western-ontario-open-championships/
-SUMMARY:Western Ontario Open Championships
-DESCRIPTION:
-CATEGORIES:Championship
-LOCATION:.\, .\, London \, Ontario\, Canada
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, London \, Ontario\, Can
- ada;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6892@rsobhd.net
@@ -477,6 +386,37 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Liniclate\, Isle of Benbecu
  geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6725@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260425
+DTEND;TZID=Europe/London;VALUE=DATE:20260426
+DTSTAMP:20251210T082121Z
+URL:https://www.rsobhd.net/events/central-highland-dancing-association-wes
+ tpark-9/
+SUMMARY:Central Highland Dancing Association - Westpark
+DESCRIPTION:Entry form\; Central Highland Dancing Association - Westpark 25
+ .04.26
+CATEGORIES:Competition
+LOCATION:Bo'ness Academy\, .\, .\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
+ PLE-RADIUS=100;X-TITLE=Bo'ness Academy:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6940@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260425
+DTEND;TZID=Europe/London;VALUE=DATE:20260426
+DTSTAMP:20260218T153952Z
+URL:https://www.rsobhd.net/events/tartan-thistle-dance-festival-6/
+SUMMARY:Tartan Thistle Dance Festival
+DESCRIPTION:Entries open - 27th February @ 8pm\n\nEntry form\; Tartan Thist
+ le Dance Festival 25.04.26
+CATEGORIES:Competition
+LOCATION:Denham Memorial Village Hall\, Village Road\, Denham\, United King
+ dom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Village Road\, Denham\, Uni
+ ted Kingdom;X-APPLE-RADIUS=100;X-TITLE=Denham Memorial Village Hall:geo:0,
+ 0
+END:VEVENT
+BEGIN:VEVENT
 UID:6625@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260425
 DTEND;TZID=Europe/London;VALUE=DATE:20260426
@@ -488,6 +428,19 @@ CATEGORIES:Championship,Competition
 LOCATION:.\, .\, Langley\, BC\, Canada
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Langley\, BC\, Canada;X
  -APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6626@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260425
+DTEND;TZID=Europe/London;VALUE=DATE:20260426
+DTSTAMP:20250922T211501Z
+URL:https://www.rsobhd.net/events/western-ontario-open-championships/
+SUMMARY:Western Ontario Open Championships
+DESCRIPTION:
+CATEGORIES:Championship
+LOCATION:.\, .\, London \, Ontario\, Canada
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, London \, Ontario\, Can
+ ada;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6898@rsobhd.net
@@ -520,21 +473,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Red Deer\, AB\, Canada;
  X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6926@rsobhd.net
-DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260502
-DTEND;TZID=Australia/Sydney;VALUE=DATE:20260503
-DTSTAMP:20260208T181046Z
-URL:https://www.rsobhd.net/events/abhdi-technical-meeting-hybrid-meeting/
-SUMMARY:ABHDI Technical Meeting (hybrid meeting)
-DESCRIPTION:Contact: abhdinc@gmail.com
-CATEGORIES:Judges CPD Lecture
-LOCATION:Mary Mackillop Place\, 80 William St\, North Sydney\, NSW\, 2060\,
-  Australia
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=80 William St\, North Sydne
- y\, NSW\, 2060\, Australia;X-APPLE-RADIUS=100;X-TITLE=Mary Mackillop Place
- :geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6925@rsobhd.net
 DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260502
 DTEND;TZID=Australia/Sydney;VALUE=DATE:20260503
@@ -543,6 +481,21 @@ URL:https://www.rsobhd.net/events/abhdi-judges-meeting-hybrid-meeting/
 SUMMARY:ABHDI Judges Meeting (hybrid meeting)
 DESCRIPTION:Contact: abhdinc@gmail.com
 CATEGORIES:Judges CPD Lecture,Judges Meeting
+LOCATION:Mary Mackillop Place\, 80 William St\, North Sydney\, NSW\, 2060\,
+  Australia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=80 William St\, North Sydne
+ y\, NSW\, 2060\, Australia;X-APPLE-RADIUS=100;X-TITLE=Mary Mackillop Place
+ :geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6926@rsobhd.net
+DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260502
+DTEND;TZID=Australia/Sydney;VALUE=DATE:20260503
+DTSTAMP:20260208T181046Z
+URL:https://www.rsobhd.net/events/abhdi-technical-meeting-hybrid-meeting/
+SUMMARY:ABHDI Technical Meeting (hybrid meeting)
+DESCRIPTION:Contact: abhdinc@gmail.com
+CATEGORIES:Judges CPD Lecture
 LOCATION:Mary Mackillop Place\, 80 William St\, North Sydney\, NSW\, 2060\,
   Australia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=80 William St\, North Sydne
@@ -566,32 +519,49 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Dalriach Road\, Oban\, PA34
  eo:56.418737,-5.4709170999999515
 END:VEVENT
 BEGIN:VEVENT
-UID:6852@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260509
-DTEND;TZID=Europe/London;VALUE=DATE:20260510
-DTSTAMP:20260114T134256Z
-URL:https://www.rsobhd.net/events/lanarkshire-thistle-association-21/
-SUMMARY:Lanarkshire Thistle Association
-DESCRIPTION:Entry form\; Lanarkshire Thistle Association 09.05.26
-CATEGORIES:Competition
-LOCATION:Coatbridge Community Centre\, 9 Old Monkland Road\, Coatbridge\, M
- L5 5EA\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=9 Old Monkland Road\, Coatb
- ridge\, ML5 5EA\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Coatbridge Com
- munity Centre:geo:0,0
+UID:6995@rsobhd.net
+DTSTART:20260503T140000Z
+DTEND:20260503T153000Z
+DTSTAMP:20260403T173027Z
+URL:https://www.rsobhd.net/events/pre-premier-highland-technique-7/
+SUMMARY:Pre-Premier Highland Technique
+DESCRIPTION:8:00 - 9:30am MDT\nFacilitator: Ann Johnson\nContact: Emma Tren
+ tman etrentman@gmail.com
+CATEGORIES:Judges CPD Lecture
+LOCATION:Balloon Fiesta Park\, Balloon Fiesta Park\, Albuquerque\, NM\, Uni
+ ted States
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Balloon Fiesta Park\, Albuq
+ uerque\, NM\, United States;X-APPLE-RADIUS=100;X-TITLE=Balloon Fiesta Park
+ :geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6933@rsobhd.net
+UID:6996@rsobhd.net
+DTSTART:20260503T153000Z
+DTEND:20260503T173000Z
+DTSTAMP:20260403T173116Z
+URL:https://www.rsobhd.net/events/premier-technique/
+SUMMARY:Premier Technique
+DESCRIPTION:9:30 - 11:30am MDT\nFacilitator: Ann Johnson\nContact: Emma Tre
+ ntman etrentman@gmail.com
+CATEGORIES:Judges CPD Lecture
+LOCATION:Balloon Fiesta Park\, Balloon Fiesta Park\, Albuquerque\, NM\, Uni
+ ted States
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Balloon Fiesta Park\, Albuq
+ uerque\, NM\, United States;X-APPLE-RADIUS=100;X-TITLE=Balloon Fiesta Park
+ :geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6621@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260509
 DTEND;TZID=Europe/London;VALUE=DATE:20260510
-DTSTAMP:20260218T135807Z
-URL:https://www.rsobhd.net/events/pitmedden-festival-of-dancing-2/
-SUMMARY:Pitmedden Festival of Dancing
-DESCRIPTION:Entry form\; Pitmedden Festival of Dancing 09.05.26
-CATEGORIES:Competition
-LOCATION:Beaton Hall\, .\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, United Kingdom;X-APPLE-
- RADIUS=100;X-TITLE=Beaton Hall:geo:0,0
+DTSTAMP:20251129T115742Z
+URL:https://www.rsobhd.net/events/bc-open-championships/
+SUMMARY:BC Open Championships
+DESCRIPTION:
+CATEGORIES:Championship
+LOCATION:.\, .\, Port Coquitlam\, BC\, Canada
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Port Coquitlam\, BC\, C
+ anada;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6629@rsobhd.net
@@ -621,6 +591,21 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Port Coquitlam\, BC\, C
  anada;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6852@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260509
+DTEND;TZID=Europe/London;VALUE=DATE:20260510
+DTSTAMP:20260114T134256Z
+URL:https://www.rsobhd.net/events/lanarkshire-thistle-association-21/
+SUMMARY:Lanarkshire Thistle Association
+DESCRIPTION:Entry form\; Lanarkshire Thistle Association 09.05.26
+CATEGORIES:Competition
+LOCATION:Coatbridge Community Centre\, 9 Old Monkland Road\, Coatbridge\, M
+ L5 5EA\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=9 Old Monkland Road\, Coatb
+ ridge\, ML5 5EA\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Coatbridge Com
+ munity Centre:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6630@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260509
 DTEND;TZID=Europe/London;VALUE=DATE:20260510
@@ -648,19 +633,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, North York \, ON\, Cana
  da;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6621@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260509
-DTEND;TZID=Europe/London;VALUE=DATE:20260510
-DTSTAMP:20251129T115742Z
-URL:https://www.rsobhd.net/events/bc-open-championships/
-SUMMARY:BC Open Championships
-DESCRIPTION:
-CATEGORIES:Championship
-LOCATION:.\, .\, Port Coquitlam\, BC\, Canada
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Port Coquitlam\, BC\, C
- anada;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6632@rsobhd.net
 DTSTART;TZID=Europe/London:20260509T000000
 DTEND;TZID=Europe/London:20260509T000000
@@ -673,21 +645,6 @@ CATEGORIES:Championship
 LOCATION:.\, .\, TBC\, SK\, Canada
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, TBC\, SK\, Canada;X-APP
  LE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6714@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260509
-DTEND;TZID=Europe/London;VALUE=DATE:20260510
-DTSTAMP:20260212T083504Z
-URL:https://www.rsobhd.net/events/ayrshire-confined-championship-6/
-SUMMARY:Ayrshire Confined Championship
-DESCRIPTION:Entries open - 27th March @ 7pm\n\nEntry form\; Ayrshire &amp\;
-  Galloway Championship and Ayrshire Confined Championship &amp\; Competiti
- on 09.05.26
-CATEGORIES:Championship,Competition
-LOCATION:Heathfield School\, . \, Ayr\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Ayr\, United Kingdom;X
- -APPLE-RADIUS=100;X-TITLE=Heathfield School:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6715@rsobhd.net
@@ -705,6 +662,34 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Ayr\, United Kingdom;X
  -APPLE-RADIUS=100;X-TITLE=Heathfield School:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6714@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260509
+DTEND;TZID=Europe/London;VALUE=DATE:20260510
+DTSTAMP:20260212T083504Z
+URL:https://www.rsobhd.net/events/ayrshire-confined-championship-6/
+SUMMARY:Ayrshire Confined Championship
+DESCRIPTION:Entries open - 27th March @ 7pm\n\nEntry form\; Ayrshire &amp\;
+  Galloway Championship and Ayrshire Confined Championship &amp\; Competiti
+ on 09.05.26
+CATEGORIES:Championship,Competition
+LOCATION:Heathfield School\, . \, Ayr\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Ayr\, United Kingdom;X
+ -APPLE-RADIUS=100;X-TITLE=Heathfield School:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6933@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260509
+DTEND;TZID=Europe/London;VALUE=DATE:20260510
+DTSTAMP:20260218T135807Z
+URL:https://www.rsobhd.net/events/pitmedden-festival-of-dancing-2/
+SUMMARY:Pitmedden Festival of Dancing
+DESCRIPTION:Entry form\; Pitmedden Festival of Dancing 09.05.26
+CATEGORIES:Competition
+LOCATION:Beaton Hall\, .\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, United Kingdom;X-APPLE-
+ RADIUS=100;X-TITLE=Beaton Hall:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6928@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260510
 DTEND;TZID=Europe/London;VALUE=DATE:20260511
@@ -719,20 +704,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, United Kingdom;X-APPLE-
  RADIUS=100;X-TITLE=Atholl Palace:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6574@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260510
-DTEND;TZID=Europe/London;VALUE=DATE:20260511
-DTSTAMP:20260304T160115Z
-URL:https://www.rsobhd.net/events/west-of-scotland-open-championships/
-SUMMARY:West of Scotland Championship & Primary Competition
-DESCRIPTION:Entry form\; West of Scotland Championship &amp\; Supporting Ev
- ents 10.05.26
-CATEGORIES:Championship,Competition
-LOCATION:.\, .\, Greenock\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Greenock\, United Kingd
- om;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6658@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260510
 DTEND;TZID=Europe/London;VALUE=DATE:20260511
@@ -745,6 +716,20 @@ CATEGORIES:Scottish National Dance Premiership
 LOCATION:.\, .\, North York\, ON\, Canada
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, North York\, ON\, Canad
  a;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6574@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260510
+DTEND;TZID=Europe/London;VALUE=DATE:20260511
+DTSTAMP:20260304T160115Z
+URL:https://www.rsobhd.net/events/west-of-scotland-open-championships/
+SUMMARY:West of Scotland Championship & Primary Competition
+DESCRIPTION:Entry form\; West of Scotland Championship &amp\; Supporting Ev
+ ents 10.05.26
+CATEGORIES:Championship,Competition
+LOCATION:.\, .\, Greenock\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Greenock\, United Kingd
+ om;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6807@rsobhd.net
@@ -872,21 +857,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Regina\, SK\, Canada;X-
  APPLE-RADIUS=100;X-TITLE=.:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6825@rsobhd.net
-DTSTART;TZID=Australia/Brisbane;VALUE=DATE:20260517
-DTEND;TZID=Australia/Brisbane;VALUE=DATE:20260518
-DTSTAMP:20260112T224350Z
-URL:https://www.rsobhd.net/events/moreton-bay-championships-3/
-SUMMARY:Moreton Bay Championships
-DESCRIPTION:Promoter: SHDS
-CATEGORIES:Championship
-LOCATION:Narangba Valley State High School\, Harris Avenue\, Narangba\, QLD
- \, Australia
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Harris Avenue\, Narangba\, 
- QLD\, Australia;X-APPLE-RADIUS=100;X-TITLE=Narangba Valley State High Scho
- ol:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6826@rsobhd.net
 DTSTART;TZID=Australia/Brisbane;VALUE=DATE:20260517
 DTEND;TZID=Australia/Brisbane;VALUE=DATE:20260518
@@ -916,6 +886,22 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Dunlop Street\, Greenock\,
  United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Notre Dame High School:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:6909@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260517
+DTEND;TZID=Europe/London;VALUE=DATE:20260518
+DTSTAMP:20260204T110641Z
+URL:https://www.rsobhd.net/events/boness-highland-dance-festival-5/
+SUMMARY:Bo'Ness Highland Dance Festival
+DESCRIPTION:Entry form\; Bo'Ness Highland Dance Festival 17.05.26
+CATEGORIES:Competition
+LOCATION:Grangemouth Town Hall\, Bo'ness Road\, Grangemouth\, FK3 8AN\, Uni
+ ted Kingdom
+GEO:56.0115558;-3.6936845000000176
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Bo'ness Road\, Grangemouth\
+ , FK3 8AN\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Grangemouth Town Hal
+ l:geo:56.0115558,-3.6936845000000176
+END:VEVENT
+BEGIN:VEVENT
 UID:6772@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260517
 DTEND;TZID=Europe/London;VALUE=DATE:20260518
@@ -932,20 +918,19 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Fochabers\, United King
  00015
 END:VEVENT
 BEGIN:VEVENT
-UID:6909@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260517
-DTEND;TZID=Europe/London;VALUE=DATE:20260518
-DTSTAMP:20260204T110641Z
-URL:https://www.rsobhd.net/events/boness-highland-dance-festival-5/
-SUMMARY:Bo'Ness Highland Dance Festival
-DESCRIPTION:Entry form\; Bo'Ness Highland Dance Festival 17.05.26
-CATEGORIES:Competition
-LOCATION:Grangemouth Town Hall\, Bo'ness Road\, Grangemouth\, FK3 8AN\, Uni
- ted Kingdom
-GEO:56.0115558;-3.6936845000000176
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Bo'ness Road\, Grangemouth\
- , FK3 8AN\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Grangemouth Town Hal
- l:geo:56.0115558,-3.6936845000000176
+UID:6825@rsobhd.net
+DTSTART;TZID=Australia/Brisbane;VALUE=DATE:20260517
+DTEND;TZID=Australia/Brisbane;VALUE=DATE:20260518
+DTSTAMP:20260112T224350Z
+URL:https://www.rsobhd.net/events/moreton-bay-championships-3/
+SUMMARY:Moreton Bay Championships
+DESCRIPTION:Promoter: SHDS
+CATEGORIES:Championship
+LOCATION:Narangba Valley State High School\, Harris Avenue\, Narangba\, QLD
+ \, Australia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Harris Avenue\, Narangba\, 
+ QLD\, Australia;X-APPLE-RADIUS=100;X-TITLE=Narangba Valley State High Scho
+ ol:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6993@rsobhd.net
@@ -964,21 +949,6 @@ LOCATION:3375 Vialoux Drive\, 3375 Vialoux Drive\, Winnipeg\, MB\, R3R 0A5\
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=3375 Vialoux Drive\, Winnip
  eg\, MB\, R3R 0A5\, Canada;X-APPLE-RADIUS=100;X-TITLE=3375 Vialoux Drive:g
  eo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6962@rsobhd.net
-DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260523
-DTEND;TZID=Australia/Sydney;VALUE=DATE:20260524
-DTSTAMP:20260311T210406Z
-URL:https://www.rsobhd.net/events/actrchdi-technical-meeting-online/
-SUMMARY:ACTRCHDI Technical Meeting - Online
-DESCRIPTION:Start time: 7pm\nContact: acthighlanddancing@gmail.com
-CATEGORIES:Judges CPD Lecture
-LOCATION:Online via Zoom\, Online via Zoom\, Online via Zoom\, ACT\, Austra
- lia
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
- a Zoom\, ACT\, Australia;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:geo:0,
- 0
 END:VEVENT
 BEGIN:VEVENT
 UID:6602@rsobhd.net
@@ -1005,6 +975,21 @@ CATEGORIES:Championship
 LOCATION:.\, .\, Costa Mesa \, California\, United States
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Costa Mesa \, Californi
  a\, United States;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6962@rsobhd.net
+DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260523
+DTEND;TZID=Australia/Sydney;VALUE=DATE:20260524
+DTSTAMP:20260311T210406Z
+URL:https://www.rsobhd.net/events/actrchdi-technical-meeting-online/
+SUMMARY:ACTRCHDI Technical Meeting - Online
+DESCRIPTION:Start time: 7pm\nContact: acthighlanddancing@gmail.com
+CATEGORIES:Judges CPD Lecture
+LOCATION:Online via Zoom\, Online via Zoom\, Online via Zoom\, ACT\, Austra
+ lia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
+ a Zoom\, ACT\, Australia;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:geo:0,
+ 0
 END:VEVENT
 BEGIN:VEVENT
 UID:6633@rsobhd.net
@@ -1079,6 +1064,21 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=3 Scott Street\, Newport on
  56.4396763,-2.9394569999999476
 END:VEVENT
 BEGIN:VEVENT
+UID:6828@rsobhd.net
+DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260524
+DTEND;TZID=Australia/Sydney;VALUE=DATE:20260525
+DTSTAMP:20260112T224920Z
+URL:https://www.rsobhd.net/events/sdaa-championship-closed-to-nsw-act-3/
+SUMMARY:SDAA Championship (Closed to NSW & ACT)
+DESCRIPTION:Promoter: SDAA
+CATEGORIES:Championship
+LOCATION:Campbelltown Performing Arts High School\, 90 Beverley Road\, Camp
+ belltown\, NSW\, 2560\, Australia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=90 Beverley Road\, Campbell
+ town\, NSW\, 2560\, Australia;X-APPLE-RADIUS=100;X-TITLE=Campbelltown Perf
+ orming Arts High School:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6604@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260524
 DTEND;TZID=Europe/London;VALUE=DATE:20260525
@@ -1120,14 +1120,15 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Keppoch Road\, Culloden\, I
  ademy:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6828@rsobhd.net
+UID:6829@rsobhd.net
 DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260524
 DTEND;TZID=Australia/Sydney;VALUE=DATE:20260525
-DTSTAMP:20260112T224920Z
-URL:https://www.rsobhd.net/events/sdaa-championship-closed-to-nsw-act-3/
-SUMMARY:SDAA Championship (Closed to NSW & ACT)
+DTSTAMP:20260112T224953Z
+URL:https://www.rsobhd.net/events/eastern-australian-scottish-national-dan
+ ce-premiership-2/
+SUMMARY:Eastern Australian Scottish National Dance Premiership
 DESCRIPTION:Promoter: SDAA
-CATEGORIES:Championship
+CATEGORIES:Championship,Scottish National Dance Premiership
 LOCATION:Campbelltown Performing Arts High School\, 90 Beverley Road\, Camp
  belltown\, NSW\, 2560\, Australia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=90 Beverley Road\, Campbell
@@ -1150,22 +1151,6 @@ LOCATION:Ashlei Ballet\, 116 N Foord Street\, Stellarton\, NS    \, B2H\, C
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=116 N Foord Street\, Stella
  rton\, NS    \, B2H\, Canada;X-APPLE-RADIUS=100;X-TITLE=Ashlei Ballet:geo:
  0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6829@rsobhd.net
-DTSTART;TZID=Australia/Sydney;VALUE=DATE:20260524
-DTEND;TZID=Australia/Sydney;VALUE=DATE:20260525
-DTSTAMP:20260112T224953Z
-URL:https://www.rsobhd.net/events/eastern-australian-scottish-national-dan
- ce-premiership-2/
-SUMMARY:Eastern Australian Scottish National Dance Premiership
-DESCRIPTION:Promoter: SDAA
-CATEGORIES:Championship,Scottish National Dance Premiership
-LOCATION:Campbelltown Performing Arts High School\, 90 Beverley Road\, Camp
- belltown\, NSW\, 2560\, Australia
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=90 Beverley Road\, Campbell
- town\, NSW\, 2560\, Australia;X-APPLE-RADIUS=100;X-TITLE=Campbelltown Perf
- orming Arts High School:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6716@rsobhd.net
@@ -1201,6 +1186,19 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Kirklands Road\, Lanark\, U
  504,-3.7738259999999854
 END:VEVENT
 BEGIN:VEVENT
+UID:6963@rsobhd.net
+DTSTART;TZID=Australia/Melbourne;VALUE=DATE:20260527
+DTEND;TZID=Australia/Melbourne;VALUE=DATE:20260528
+DTSTAMP:20260406T151306Z
+URL:https://www.rsobhd.net/events/vschdi-judges-meeting-online/
+SUMMARY:VSCHDI Judges Meeting - Online
+DESCRIPTION:Start: 7.30pm (local time)\nContact: vschdijandt@gmail.com
+CATEGORIES:Judges CPD Lecture,Judges Meeting
+LOCATION:Online via Zoom\, Online via Zoom\, Online via Zoom\, Australia
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
+ a Zoom\, Australia;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6964@rsobhd.net
 DTSTART;TZID=Australia/Melbourne;VALUE=DATE:20260527
 DTEND;TZID=Australia/Melbourne;VALUE=DATE:20260528
@@ -1214,21 +1212,6 @@ LOCATION:Online via Zoom\, Online via Zoom\, Online via Zoom\, VIC\, Austra
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
  a Zoom\, VIC\, Australia;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:geo:0,
  0
-END:VEVENT
-BEGIN:VEVENT
-UID:6963@rsobhd.net
-DTSTART;TZID=Australia/Melbourne;VALUE=DATE:20260527
-DTEND;TZID=Australia/Melbourne;VALUE=DATE:20260528
-DTSTAMP:20260311T210714Z
-URL:https://www.rsobhd.net/events/vschdi-judges-meeting-online/
-SUMMARY:VSCHDI Judges Meeting - Online
-DESCRIPTION:Start: 7.30pm (local time)\nContact: vschdijandt@gmail.com
-CATEGORIES:Judges CPD Lecture,Judges Meeting
-LOCATION:Online via Zoom\, Online via Zoom\, Online via Zoom\, VIC\, United
-  Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
- a Zoom\, VIC\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:g
- eo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6984@rsobhd.net
@@ -1262,20 +1245,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
  PLE-RADIUS=100;X-TITLE=Bo'ness Academy:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6915@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260531
-DTEND;TZID=Europe/London;VALUE=DATE:20260601
-DTSTAMP:20260204T125101Z
-URL:https://www.rsobhd.net/events/tanya-horne-festival-of-highland-dance/
-SUMMARY:Tanya Horne Festival of Highland Dance
-DESCRIPTION:Entry form\; Tanya Horne Festival of Highland Dancing May 2026
-  
-CATEGORIES:Competition
-LOCATION:Newton Park Primary\, . \, Wick\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Wick\, United Kingdom;
- X-APPLE-RADIUS=100;X-TITLE=Newton Park Primary:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6912@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260531
 DTEND;TZID=Europe/London;VALUE=DATE:20260601
@@ -1290,6 +1259,20 @@ GEO:55.6799255;-4.8568623999999545
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Ardrossan\, Ardrossan\, Uni
  ted Kingdom;X-APPLE-RADIUS=100;X-TITLE=Ardrossan Highland Games:geo:55.679
  9255,-4.8568623999999545
+END:VEVENT
+BEGIN:VEVENT
+UID:6915@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260531
+DTEND;TZID=Europe/London;VALUE=DATE:20260601
+DTSTAMP:20260204T125101Z
+URL:https://www.rsobhd.net/events/tanya-horne-festival-of-highland-dance/
+SUMMARY:Tanya Horne Festival of Highland Dance
+DESCRIPTION:Entry form\; Tanya Horne Festival of Highland Dancing May 2026
+  
+CATEGORIES:Competition
+LOCATION:Newton Park Primary\, . \, Wick\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Wick\, United Kingdom;
+ X-APPLE-RADIUS=100;X-TITLE=Newton Park Primary:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6934@rsobhd.net
@@ -1333,21 +1316,19 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=11 Bertone Hall\, Barton Se
  ave Village Hall:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6980@rsobhd.net
+UID:6750@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260606
 DTEND;TZID=Europe/London;VALUE=DATE:20260607
-DTSTAMP:20260318T075310Z
-URL:https://www.rsobhd.net/events/mackinnon-festival-20/
-SUMMARY:Mackinnon Festival
-DESCRIPTION:Entries open - 1st April\n\nEntry form\; Mackinnon Festival 06.
- 06.26
+DTSTAMP:20251211T073645Z
+URL:https://www.rsobhd.net/events/graham-school-of-dance-competition-4/
+SUMMARY:Graham School of Dance Competition
+DESCRIPTION:Entry form\; Graham School of Dance Competition 06.06.26
 CATEGORIES:Competition
-LOCATION:Nicolson Institute\, .\, Stornoway\, Isle of Lewis\, United Kingdo
- m
-GEO:58.209435;-6.384869200000026
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Stornoway\, Isle of Lew
- is\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Nicolson Institute:geo:58.2
- 09435,-6.384869200000026
+LOCATION:Langlee Community Centre\, Marigold Drive\, Langlee\, TD1 2LP\, Un
+ ited Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Marigold Drive\, Langlee\, 
+ TD1 2LP\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Langlee Community Cent
+ re:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6606@rsobhd.net
@@ -1361,6 +1342,24 @@ CATEGORIES:Championship
 LOCATION:.\, .\, Blaine\, WA\, United States
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Blaine\, WA\, United St
  ates;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6763@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260606
+DTEND;TZID=Europe/London;VALUE=DATE:20260607
+DTSTAMP:20260107T093523Z
+URL:https://www.rsobhd.net/events/angus-agricultural-association-angus-sho
+ w-4/
+SUMMARY:Angus Agricultural Association - Angus Show
+DESCRIPTION:Entry form\; Angus Agricultural Association - Angus Show 06.06.
+ 26
+CATEGORIES:Competition
+LOCATION:Haughmuir\, Opposite Brechin Castle Garden Centre\, Brechin\, Angu
+ s\, United Kingdom
+GEO:56.73334200000001;-2.6552888999999595
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Opposite Brechin Castle Gar
+ den Centre\, Brechin\, Angus\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=H
+ aughmuir:geo:56.73334200000001,-2.6552888999999595
 END:VEVENT
 BEGIN:VEVENT
 UID:6635@rsobhd.net
@@ -1419,32 +1418,47 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Playing Field\, Cornhill\,
  124978,-2.6921654000000217
 END:VEVENT
 BEGIN:VEVENT
-UID:6763@rsobhd.net
+UID:6994@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260606
 DTEND;TZID=Europe/London;VALUE=DATE:20260607
-DTSTAMP:20260107T093523Z
-URL:https://www.rsobhd.net/events/angus-agricultural-association-angus-sho
- w-4/
-SUMMARY:Angus Agricultural Association - Angus Show
-DESCRIPTION:Entry form\; Angus Agricultural Association - Angus Show 06.06.
- 26
+DTSTAMP:20260402T110105Z
+URL:https://www.rsobhd.net/events/dutch-pipes-drums-silver-thistle/
+SUMMARY:Dutch Pipes & Drums - Silver Thistle
+DESCRIPTION:Entry form\; Silver Thistle Competition Entry 2026
 CATEGORIES:Competition
-LOCATION:Haughmuir\, Opposite Brechin Castle Garden Centre\, Brechin\, Angu
- s\, United Kingdom
-GEO:56.73334200000001;-2.6552888999999595
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Opposite Brechin Castle Gar
- den Centre\, Brechin\, Angus\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=H
- aughmuir:geo:56.73334200000001,-2.6552888999999595
+LOCATION:Rivers International school\, Passasusstraat 20\, Arnhem\, Netherl
+ ands
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Passasusstraat 20\, Arnhem\
+ , Netherlands;X-APPLE-RADIUS=100;X-TITLE=Rivers International school:geo:0
+ ,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6980@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260606
+DTEND;TZID=Europe/London;VALUE=DATE:20260607
+DTSTAMP:20260318T075310Z
+URL:https://www.rsobhd.net/events/mackinnon-festival-20/
+SUMMARY:Mackinnon Festival
+DESCRIPTION:Entries open - 1st April\n\nEntry form\; Mackinnon Festival 06.
+ 06.26
+CATEGORIES:Competition
+LOCATION:Nicolson Institute\, .\, Stornoway\, Isle of Lewis\, United Kingdo
+ m
+GEO:58.209435;-6.384869200000026
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Stornoway\, Isle of Lew
+ is\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Nicolson Institute:geo:58.2
+ 09435,-6.384869200000026
 END:VEVENT
 BEGIN:VEVENT
 UID:6718@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260606
 DTEND;TZID=Europe/London;VALUE=DATE:20260607
-DTSTAMP:20251207T202806Z
+DTSTAMP:20260409T134526Z
 URL:https://www.rsobhd.net/events/strathclyde-open-championship-supporting
  -events-2/
 SUMMARY:Strathclyde Open Championship & Supporting Events
-DESCRIPTION:
+DESCRIPTION:Entry form\; Strathclyde Championship &amp\; Supporting Events 
+ 06.06.26
 CATEGORIES:Championship,Competition
 LOCATION:Calderhead High School\, Dyfrig Street\, Shotts\, ML7 4DH\, United
   Kingdom
@@ -1452,21 +1466,6 @@ GEO:55.821341;-3.798359
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Dyfrig Street\, Shotts\, ML
  7 4DH\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Calderhead High School:g
  eo:55.821341,-3.798359
-END:VEVENT
-BEGIN:VEVENT
-UID:6750@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20260606
-DTEND;TZID=Europe/London;VALUE=DATE:20260607
-DTSTAMP:20251211T073645Z
-URL:https://www.rsobhd.net/events/graham-school-of-dance-competition-4/
-SUMMARY:Graham School of Dance Competition
-DESCRIPTION:Entry form\; Graham School of Dance Competition 06.06.26
-CATEGORIES:Competition
-LOCATION:Langlee Community Centre\, Marigold Drive\, Langlee\, TD1 2LP\, Un
- ited Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Marigold Drive\, Langlee\, 
- TD1 2LP\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Langlee Community Cent
- re:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6659@rsobhd.net
@@ -1545,12 +1544,13 @@ BEGIN:VEVENT
 UID:6649@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260613
 DTEND;TZID=Europe/London;VALUE=DATE:20260614
-DTSTAMP:20250922T213713Z
+DTSTAMP:20260402T114558Z
 URL:https://www.rsobhd.net/events/batd-scottish-national-dance-premiership
  s/
-SUMMARY:BATD Scottish National Dance Premierships
-DESCRIPTION:
-CATEGORIES:Scottish National Dance Premiership
+SUMMARY:BATD Scottish National Dance Premiership & Supporting Events
+DESCRIPTION:Entry form\; BATD Scottish National Dance Premiership &amp\; Pr
+ e Premier Competition 13.06.26
+CATEGORIES:Competition,Scottish National Dance Premiership
 LOCATION:.\, .\, clydebank\, United Kingdom
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, clydebank\, United King
  dom;X-APPLE-RADIUS=100;X-TITLE=.:geo:0,0
@@ -1602,6 +1602,19 @@ LOCATION:Keiss Village Hall\, High Street\, Keiss\, Wick\, KW1 4XB\, United
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=High Street\, Keiss\, Wick\
  , KW1 4XB\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Keiss Village Hall:g
  eo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6999@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260613
+DTEND;TZID=Europe/London;VALUE=DATE:20260614
+DTSTAMP:20260409T140856Z
+URL:https://www.rsobhd.net/events/alyth-show-6/
+SUMMARY:Alyth Show
+DESCRIPTION:Entry form\; Alyth Show 13.06.26
+CATEGORIES:Competition
+LOCATION:Boglesfield\, Essendy Road\, Blairgowrie\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Essendy Road\, Blairgowrie\
+ , United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Boglesfield:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6764@rsobhd.net
@@ -1839,6 +1852,21 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Donegal Town\, Co. Don
  egal\, Ireland;X-APPLE-RADIUS=100;X-TITLE=St John Bosco Centre:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:7001@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260627
+DTEND;TZID=Europe/London;VALUE=DATE:20260628
+DTSTAMP:20260409T144518Z
+URL:https://www.rsobhd.net/events/drumtochty-highland-games-9/
+SUMMARY:Drumtochty Highland Games
+DESCRIPTION:Entry form\; Drumtochty Highland Games 27.06.26
+CATEGORIES:Competition
+LOCATION:Drumtochty Castle Grounds\, .\, Drumtochty\, United Kingdom
+GEO:56.9107808;-2.494523699999945
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Drumtochty\, United Kin
+ gdom;X-APPLE-RADIUS=100;X-TITLE=Drumtochty Castle Grounds:geo:56.9107808,-
+ 2.494523699999945
+END:VEVENT
+BEGIN:VEVENT
 UID:6576@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260628
 DTEND;TZID=Europe/London;VALUE=DATE:20260629
@@ -1864,6 +1892,19 @@ CATEGORIES:Judges CPD Lecture,Workshop
 LOCATION:Ballet Australasia\, . \, Surry Hills\, NSW\, Australia
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Surry Hills\, NSW\, Au
  stralia;X-APPLE-RADIUS=100;X-TITLE=Ballet Australasia:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6998@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260628
+DTEND;TZID=Europe/London;VALUE=DATE:20260629
+DTSTAMP:20260409T131902Z
+URL:https://www.rsobhd.net/events/robinson-school-of-highland-dance/
+SUMMARY:Robinson School of Highland Dance
+DESCRIPTION:Entry form\; Robinson School of Highland Dance 28.06.26
+CATEGORIES:Competition
+LOCATION:Bowburn Community Centre\, Durham Road\, Bowburn\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Durham Road\, Bowburn\, Uni
+ ted Kingdom;X-APPLE-RADIUS=100;X-TITLE=Bowburn Community Centre:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6930@rsobhd.net
@@ -1923,6 +1964,21 @@ GEO:56.1485564;-3.939075099999968
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Luss Games Field\, Luss\, U
  nited Kingdom;X-APPLE-RADIUS=100;X-TITLE=Luss Games Field:geo:56.1485564,-
  3.939075099999968
+END:VEVENT
+BEGIN:VEVENT
+UID:7002@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260704
+DTEND;TZID=Europe/London;VALUE=DATE:20260705
+DTSTAMP:20260409T145520Z
+URL:https://www.rsobhd.net/events/fettercairn-show-9/
+SUMMARY:Fettercairn Show
+DESCRIPTION:Entry from\; Fettercairn Show 04.07.26
+CATEGORIES:Competition
+LOCATION:Bridge-end Park\, .\, Fettercairn\, United Kingdom
+GEO:56.851054;-2.5716559999999618
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Fettercairn\, United Ki
+ ngdom;X-APPLE-RADIUS=100;X-TITLE=Bridge-end Park:geo:56.851054,-2.57165599
+ 99999618
 END:VEVENT
 BEGIN:VEVENT
 UID:6992@rsobhd.net
@@ -2166,6 +2222,21 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
  PLE-RADIUS=100;X-TITLE=New Deer Show Park:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
+UID:7000@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260718
+DTEND;TZID=Europe/London;VALUE=DATE:20260719
+DTSTAMP:20260409T143043Z
+URL:https://www.rsobhd.net/events/kirriemuir-show-7/
+SUMMARY:Kirriemuir Show
+DESCRIPTION:Entries open - 11th April\n\nEntry form\; Kirriemuir Show 18.07
+ .26
+CATEGORIES:Competition
+LOCATION:East Muirhead of Logie\, . \, Kirriemuir\, DD8 5PG\, United Kingdo
+ m
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=. \, Kirriemuir\, DD8 5PG\,
+  United Kingdom;X-APPLE-RADIUS=100;X-TITLE=East Muirhead of Logie:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
 UID:6739@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20260719
 DTEND;TZID=Europe/London;VALUE=DATE:20260720
@@ -2209,6 +2280,21 @@ CATEGORIES:Judges CPD Lecture
 LOCATION:.\, .\, .\, South Africa
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, South Africa;X-APPL
  E-RADIUS=100;X-TITLE=.:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:7003@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20260719
+DTEND;TZID=Europe/London;VALUE=DATE:20260720
+DTSTAMP:20260409T150537Z
+URL:https://www.rsobhd.net/events/stonehaven-highland-games-9/
+SUMMARY:Stonehaven Highland Games
+DESCRIPTION:Entry form\; Stonehaven Highland Games 19.07.26
+CATEGORIES:Competition
+LOCATION:Mackie Academy\, .\, Stonehaven\, United Kingdom
+GEO:56.96366099999999;-2.2092878999999357
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Stonehaven\, United Kin
+ gdom;X-APPLE-RADIUS=100;X-TITLE=Mackie Academy:geo:56.96366099999999,-2.20
+ 92878999999357
 END:VEVENT
 BEGIN:VEVENT
 UID:6910@rsobhd.net
@@ -3694,6 +3780,22 @@ CATEGORIES:Competition
 LOCATION:Bo'Ness Academy\, .\, .\, United Kingdom
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
  PLE-RADIUS=100;X-TITLE=Bo'Ness Academy:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6997@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20261031
+DTEND;TZID=Europe/London;VALUE=DATE:20261101
+DTSTAMP:20260409T125154Z
+URL:https://www.rsobhd.net/events/buckie-festival-of-highland-dancing-4/
+SUMMARY:Buckie Festival of Highland Dancing
+DESCRIPTION:Entries open - 1st September @ 8am\n\nEntry form\; Buckie Festi
+ val of Highland Dancing 31.10.26
+CATEGORIES:Competition
+LOCATION:The Fisherman's Hall\, North Pringle Street\, Buckie\, AB56 1PZ\, 
+ United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=North Pringle Street\, Buck
+ ie\, AB56 1PZ\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=The Fisherman's 
+ Hall:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6761@rsobhd.net
