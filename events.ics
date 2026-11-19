@@ -1,143 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//wp-events-plugin.com//7.4.13//EN
+PRODID:-//wp-events-plugin.com//7.5//EN
 TZID:Europe/London
 X-WR-TIMEZONE:Europe/London
-BEGIN:VEVENT
-UID:6863@rsobhd.net
-DTSTART;TZID=Australia/Brisbane;VALUE=DATE:20261114
-DTEND;TZID=Australia/Brisbane;VALUE=DATE:20261115
-DTSTAMP:20260114T224832Z
-URL:https://www.rsobhd.net/events/thistle-city-of-brisbane-highland-dancin
- g-championships-4/
-SUMMARY:Thistle 'City of Brisbane' Highland Dancing Championships
-DESCRIPTION:Promoter: THDA
-CATEGORIES:Championship
-LOCATION:tbc\, tbc\, tbc\, Queensland\, Australia
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=tbc\, tbc\, Queensland\, Au
- stralia;X-APPLE-RADIUS=100;X-TITLE=tbc:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:7071@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261114
-DTEND;TZID=Europe/London;VALUE=DATE:20261115
-DTSTAMP:20260709T102343Z
-URL:https://www.rsobhd.net/events/whistler-highland-dancing-competition/
-SUMMARY:Whistler Highland Dancing Competition
-DESCRIPTION:Entries open - 20th July\n\nEntry form\; Whistler Annual Highla
- nd Dancing Competition - 14.11.2026
-CATEGORIES:Competition
-LOCATION:Tyne Youth Centre\, .\, North Shields\, NE30 4AT\, United Kingdom
-GEO:55.01518;-1.4304572999999436
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, North Shields\, NE30 4A
- T\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Tyne Youth Centre:geo:55.015
- 18,-1.4304572999999436
-END:VEVENT
-BEGIN:VEVENT
-UID:7079@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261114
-DTEND;TZID=Europe/London;VALUE=DATE:20261115
-DTSTAMP:20260804T141308Z
-URL:https://www.rsobhd.net/events/lochaber-highland-dancers-invergarry-2/
-SUMMARY:Lochaber Highland Dancers - Invergarry
-DESCRIPTION:Entry form\; Lochaber Highland Dancers - Invergarry 14.11.26
-CATEGORIES:Competition
-LOCATION:Glengarry Community Hall\, .\, .\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
- PLE-RADIUS=100;X-TITLE=Glengarry Community Hall:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:7126@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261114
-DTEND;TZID=Europe/London;VALUE=DATE:20261115
-DTSTAMP:20260916T064748Z
-URL:https://www.rsobhd.net/events/flandrach-18th-st-andrews-highland-danci
- ng-competition/
-SUMMARY:Flandrach 18th St. Andrews Highland Dancing Competition
-DESCRIPTION:Entry form\; Flandrach 18th St. Andrews Highland Dancing Compet
- ition 14.11.26
-CATEGORIES:Competition
-LOCATION:Basisschool de Wijze Eik\, .\, .\, Belgium
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, Belgium;X-APPLE-RAD
- IUS=100;X-TITLE=Basisschool de Wijze Eik:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6855@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261114
-DTEND;TZID=Europe/London;VALUE=DATE:20261115
-DTSTAMP:20260611T091315Z
-URL:https://www.rsobhd.net/events/lanarkshire-thistle-association-24/
-SUMMARY:Lanarkshire Thistle Association
-DESCRIPTION:Entry form\; Lanarkshire Thistle Association 14.11.26 UPDATED V
- ENUE
-CATEGORIES:Competition
-LOCATION:Gartlea Community Centre\, Hillfoot Road\, Airdrie\, United Kingdo
- m
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hillfoot Road\, Airdrie\, U
- nited Kingdom;X-APPLE-RADIUS=100;X-TITLE=Gartlea Community Centre:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6927@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261114
-DTEND;TZID=Europe/London;VALUE=DATE:20261115
-DTSTAMP:20260212T071611Z
-URL:https://www.rsobhd.net/events/alford-westhill-dancing-festival/
-SUMMARY:Alford & Westhill Dancing Festival
-DESCRIPTION:Entries Open - 1st September @ 9am\n\nEntry form\; Alford &amp\
- ; Westhill Dancing Festival 14.11.26
-CATEGORIES:Competition
-LOCATION:Alford Public Hall\, Kingsford Road\, Alford\, United Kingdom
-GEO:57.2307125;-2.703616399999987
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Kingsford Road\, Alford\, U
- nited Kingdom;X-APPLE-RADIUS=100;X-TITLE=Alford Public Hall:geo:57.2307125
- ,-2.703616399999987
-END:VEVENT
-BEGIN:VEVENT
-UID:6814@rsobhd.net
-DTSTART;TZID=Australia/Sydney;VALUE=DATE:20261115
-DTEND;TZID=Australia/Sydney;VALUE=DATE:20261116
-DTSTAMP:20260112T221233Z
-URL:https://www.rsobhd.net/events/sdaa-technical-meeting-online/
-SUMMARY:SDAA Technical Meeting - Online
-DESCRIPTION:Start time 09:30am\nContact: secretarysdaa@gmail.com
-CATEGORIES:Judges CPD Lecture
-LOCATION:Online\, Online\, Online\, Australia
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online\, Online\, Australia
- ;X-APPLE-RADIUS=100;X-TITLE=Online:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6888@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261115
-DTEND;TZID=Europe/London;VALUE=DATE:20261116
-DTSTAMP:20260820T160036Z
-URL:https://www.rsobhd.net/events/renfrewshire-festivals-36/
-SUMMARY:Renfrewshire Festivals
-DESCRIPTION:Entry form: Renfrewshire Festivals 15.11.26 UPDATED VENUE v2
-CATEGORIES:Competition
-LOCATION:Notre Dame High School\, Dunlop Street\, Greenock\, PA16 9BJ\, Uni
- ted Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Dunlop Street\, Greenock\, 
- PA16 9BJ\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Notre Dame High Schoo
- l:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:7146@rsobhd.net
-DTSTART:20261115T143000Z
-DTEND:20261115T160000Z
-DTSTAMP:20261013T220256Z
-URL:https://www.rsobhd.net/events/judges-meeting-and-2027-championship-ste
- p-and-scottish-national-dance-premiership-step-review/
-SUMMARY:Judges Meeting and 2027 Championship Step and Scottish National Dan
- ce Premiership Step Review
-DESCRIPTION:Hosted by ScotDance Manitoba\n9:30am-11:00am CDT\nLecturer: Gae
- lyn McGregor\nFurther information: ballater@mymts.com
-CATEGORIES:Judges CPD Lecture,Judges Meeting
-LOCATION:3375 Vialoux Drive\, 3375 Vialoux Drive\, Winnipeg\, MB\, R3R 0A5\
- , Canada
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=3375 Vialoux Drive\, Winnip
- eg\, MB\, R3R 0A5\, Canada;X-APPLE-RADIUS=100;X-TITLE=3375 Vialoux Drive:g
- eo:0,0
-END:VEVENT
 BEGIN:VEVENT
 UID:6695@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20261121
@@ -272,36 +137,19 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
  378051,-3.435973
 END:VEVENT
 BEGIN:VEVENT
-UID:7105@rsobhd.net
+UID:6729@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20261128
 DTEND;TZID=Europe/London;VALUE=DATE:20261129
-DTSTAMP:20260902T123603Z
-URL:https://www.rsobhd.net/events/sollus-school-of-highland-dance-maiden-c
- ity-2/
-SUMMARY:Sollus School of Highland Dance Maiden City
-DESCRIPTION:Entry form\; Sollus School of Highland Dance Maiden City 28.11.
- 26
+DTSTAMP:20251210T083341Z
+URL:https://www.rsobhd.net/events/central-highland-dancing-association-wes
+ tpark-13/
+SUMMARY:Central Highland Dancing Association - Westpark
+DESCRIPTION:Entry form\; Central Highland Dancing Association - Westpark 28
+ .11.26
 CATEGORIES:Competition
-LOCATION:Fountain Primary School\, .\, Londonderry\, .\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Londonderry\, .\, Unite
- d Kingdom;X-APPLE-RADIUS=100;X-TITLE=Fountain Primary School:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6957@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261128
-DTEND;TZID=Europe/London;VALUE=DATE:20261129
-DTSTAMP:20260923T094035Z
-URL:https://www.rsobhd.net/events/highland-dancing-basel-christmas-competi
- tion-3/
-SUMMARY:Highland Dancing Basel Christmas Competition
-DESCRIPTION:Entry form\; Highland Dancing Basel Christmas Competition UPDAT
- ED SCHEDULE 28.11.26
-CATEGORIES:Competition
-LOCATION:Aula Kirschgarten Gymnasium School\, Hermann Kinkelin Strasse 10\,
-  Basel\, Switzerland
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hermann Kinkelin Strasse 10
- \, Basel\, Switzerland;X-APPLE-RADIUS=100;X-TITLE=Aula Kirschgarten Gymnas
- ium School:geo:0,0
+LOCATION:Bo'Ness Academy\, .\, .\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
+ PLE-RADIUS=100;X-TITLE=Bo'Ness Academy:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6938@rsobhd.net
@@ -321,19 +169,53 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Victoria Terrace\, Turriff\
  ,-2.4597764000000097
 END:VEVENT
 BEGIN:VEVENT
-UID:6729@rsobhd.net
+UID:6957@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20261128
 DTEND;TZID=Europe/London;VALUE=DATE:20261129
-DTSTAMP:20251210T083341Z
-URL:https://www.rsobhd.net/events/central-highland-dancing-association-wes
- tpark-13/
-SUMMARY:Central Highland Dancing Association - Westpark
-DESCRIPTION:Entry form\; Central Highland Dancing Association - Westpark 28
- .11.26
+DTSTAMP:20260923T094035Z
+URL:https://www.rsobhd.net/events/highland-dancing-basel-christmas-competi
+ tion-3/
+SUMMARY:Highland Dancing Basel Christmas Competition
+DESCRIPTION:Entry form\; Highland Dancing Basel Christmas Competition UPDAT
+ ED SCHEDULE 28.11.26
 CATEGORIES:Competition
-LOCATION:Bo'Ness Academy\, .\, .\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, United Kingdom;X-AP
- PLE-RADIUS=100;X-TITLE=Bo'Ness Academy:geo:0,0
+LOCATION:Aula Kirschgarten Gymnasium School\, Hermann Kinkelin Strasse 10\,
+  Basel\, Switzerland
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hermann Kinkelin Strasse 10
+ \, Basel\, Switzerland;X-APPLE-RADIUS=100;X-TITLE=Aula Kirschgarten Gymnas
+ ium School:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:7105@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20261128
+DTEND;TZID=Europe/London;VALUE=DATE:20261129
+DTSTAMP:20260902T123603Z
+URL:https://www.rsobhd.net/events/sollus-school-of-highland-dance-maiden-c
+ ity-2/
+SUMMARY:Sollus School of Highland Dance Maiden City
+DESCRIPTION:Entry form\; Sollus School of Highland Dance Maiden City 28.11.
+ 26
+CATEGORIES:Competition
+LOCATION:Fountain Primary School\, .\, Londonderry\, .\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Londonderry\, .\, Unite
+ d Kingdom;X-APPLE-RADIUS=100;X-TITLE=Fountain Primary School:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:7140@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20261129
+DTEND;TZID=Europe/London;VALUE=DATE:20261130
+DTSTAMP:20260930T095316Z
+URL:https://www.rsobhd.net/events/lothian-highland-dancing-association-cho
+ reography-competition-2/
+SUMMARY:Lothian Highland Dancing Association Choreography Competition
+DESCRIPTION:Entry form\; Lothian Highland Dancing Association Choreography 
+ Competition 29.11.26
+CATEGORIES:Competition
+LOCATION:Edinburgh College\, 350 W Granton Road\, Edinburgh\, EH5 1QE\, Uni
+ ted Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=350 W Granton Road\, Edinbu
+ rgh\, EH5 1QE\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Edinburgh Colleg
+ e:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6916@rsobhd.net
@@ -370,23 +252,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Tower Hill Road\, Corby\, N
  s Academy:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:7140@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261129
-DTEND;TZID=Europe/London;VALUE=DATE:20261130
-DTSTAMP:20260930T095316Z
-URL:https://www.rsobhd.net/events/lothian-highland-dancing-association-cho
- reography-competition-2/
-SUMMARY:Lothian Highland Dancing Association Choreography Competition
-DESCRIPTION:Entry form\; Lothian Highland Dancing Association Choreography 
- Competition 29.11.26
-CATEGORIES:Competition
-LOCATION:Edinburgh College\, 350 W Granton Road\, Edinburgh\, EH5 1QE\, Uni
- ted Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=350 W Granton Road\, Edinbu
- rgh\, EH5 1QE\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Edinburgh Colleg
- e:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:7154@rsobhd.net
 DTSTART:20261129T220000Z
 DTEND:20261129T230000Z
@@ -401,22 +266,6 @@ CATEGORIES:Judges CPD Lecture
 LOCATION:Online via Zoom\, Online via Zoom\, Online via Zoom\, Canada
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
  a Zoom\, Canada;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
-UID:6710@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261205
-DTEND;TZID=Europe/London;VALUE=DATE:20261206
-DTSTAMP:20251204T130150Z
-URL:https://www.rsobhd.net/events/kingdom-of-fife-festival-3/
-SUMMARY:Kingdom of Fife Festival
-DESCRIPTION:Entry form\; Kingdom of Fife Festival 05.12.26
-CATEGORIES:Competition
-LOCATION:Glenwood High School\, South Parks Road\, Glenrothes\, KY6 1JX\, U
- nited Kingdom
-GEO:56.1947049;-3.192468500000018
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=South Parks Road\, Glenroth
- es\, KY6 1JX\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Glenwood High Sch
- ool:geo:56.1947049,-3.192468500000018
 END:VEVENT
 BEGIN:VEVENT
 UID:7068@rsobhd.net
@@ -434,17 +283,21 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, .\, .\, .\, United King
  dom;X-APPLE-RADIUS=100;X-TITLE=Beanfield Community Centre:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:7152@rsobhd.net
+UID:6883@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20261205
 DTEND;TZID=Europe/London;VALUE=DATE:20261206
-DTSTAMP:20261015T111032Z
-URL:https://www.rsobhd.net/events/le-ellen-festicals-a-highland-christmas/
-SUMMARY:Le-Ellen Festicals - A Highland Christmas
-DESCRIPTION:Entry form\; Le-Ellen Festicals - A Highland Christmas 05.12.26
+DTSTAMP:20260903T095657Z
+URL:https://www.rsobhd.net/events/lomond-argyll-festivals-4/
+SUMMARY:Lomond & Argyll Festivals
+DESCRIPTION:Entries open - 1st September @ 9am\n\nEntry form\; Lomond &amp\
+ ; Argyll Festivals - Updated 05.12.26
 CATEGORIES:Competition
-LOCATION:Phipps Hall\, .\, Beauly\, United Kingdom
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Beauly\, United Kingdom
- ;X-APPLE-RADIUS=100;X-TITLE=Phipps Hall:geo:0,0
+LOCATION:Cardross Parish Church Hall\, Hall Station Road\, Cardoss\, G82 5N
+ L\, United Kingdom
+GEO:55.96181989999999;-4.6531700000000455
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hall Station Road\, Cardoss
+ \, G82 5NL\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Cardross Parish Chu
+ rch Hall:geo:55.96181989999999,-4.6531700000000455
 END:VEVENT
 BEGIN:VEVENT
 UID:6864@rsobhd.net
@@ -479,21 +332,33 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Sandwick Road\, Stornoway\,
  eo:58.2083526,-6.369500600000038
 END:VEVENT
 BEGIN:VEVENT
-UID:6883@rsobhd.net
+UID:6710@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20261205
 DTEND;TZID=Europe/London;VALUE=DATE:20261206
-DTSTAMP:20260903T095657Z
-URL:https://www.rsobhd.net/events/lomond-argyll-festivals-4/
-SUMMARY:Lomond & Argyll Festivals
-DESCRIPTION:Entries open - 1st September @ 9am\n\nEntry form\; Lomond &amp\
- ; Argyll Festivals - Updated 05.12.26
+DTSTAMP:20251204T130150Z
+URL:https://www.rsobhd.net/events/kingdom-of-fife-festival-3/
+SUMMARY:Kingdom of Fife Festival
+DESCRIPTION:Entry form\; Kingdom of Fife Festival 05.12.26
 CATEGORIES:Competition
-LOCATION:Cardross Parish Church Hall\, Hall Station Road\, Cardoss\, G82 5N
- L\, United Kingdom
-GEO:55.96181989999999;-4.6531700000000455
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hall Station Road\, Cardoss
- \, G82 5NL\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Cardross Parish Chu
- rch Hall:geo:55.96181989999999,-4.6531700000000455
+LOCATION:Glenwood High School\, South Parks Road\, Glenrothes\, KY6 1JX\, U
+ nited Kingdom
+GEO:56.1947049;-3.192468500000018
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=South Parks Road\, Glenroth
+ es\, KY6 1JX\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Glenwood High Sch
+ ool:geo:56.1947049,-3.192468500000018
+END:VEVENT
+BEGIN:VEVENT
+UID:7152@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20261205
+DTEND;TZID=Europe/London;VALUE=DATE:20261206
+DTSTAMP:20261015T111032Z
+URL:https://www.rsobhd.net/events/le-ellen-festicals-a-highland-christmas/
+SUMMARY:Le-Ellen Festicals - A Highland Christmas
+DESCRIPTION:Entry form\; Le-Ellen Festicals - A Highland Christmas 05.12.26
+CATEGORIES:Competition
+LOCATION:Phipps Hall\, .\, Beauly\, United Kingdom
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=.\, Beauly\, United Kingdom
+ ;X-APPLE-RADIUS=100;X-TITLE=Phipps Hall:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6762@rsobhd.net
@@ -562,21 +427,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
  a Zoom\, United States;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
-UID:6856@rsobhd.net
-DTSTART;TZID=Europe/London;VALUE=DATE:20261212
-DTEND;TZID=Europe/London;VALUE=DATE:20261213
-DTSTAMP:20260611T091703Z
-URL:https://www.rsobhd.net/events/lanarkshire-thistle-association-25/
-SUMMARY:Lanarkshire Thistle Association
-DESCRIPTION:Entry form\; Lanarkshire Thistle Association 12.12.26 UPDATED V
- ENUE
-CATEGORIES:Competition
-LOCATION:Gartlea Community Centre\, Hillfoot Road\, Airdrie\, United Kingdo
- m
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hillfoot Road\, Airdrie\, U
- nited Kingdom;X-APPLE-RADIUS=100;X-TITLE=Gartlea Community Centre:geo:0,0
-END:VEVENT
-BEGIN:VEVENT
 UID:6891@rsobhd.net
 DTSTART;TZID=Europe/London;VALUE=DATE:20261212
 DTEND;TZID=Europe/London;VALUE=DATE:20261213
@@ -591,6 +441,21 @@ LOCATION:Annalong Presbyterian Church Hall\, Kilkeel Road\, Annalong\, Newr
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Kilkeel Road\, Annalong\, N
  ewry\, BT34 4TH\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Annalong Presb
  yterian Church Hall:geo:0,0
+END:VEVENT
+BEGIN:VEVENT
+UID:6856@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20261212
+DTEND;TZID=Europe/London;VALUE=DATE:20261213
+DTSTAMP:20260611T091703Z
+URL:https://www.rsobhd.net/events/lanarkshire-thistle-association-25/
+SUMMARY:Lanarkshire Thistle Association
+DESCRIPTION:Entry form\; Lanarkshire Thistle Association 12.12.26 UPDATED V
+ ENUE
+CATEGORIES:Competition
+LOCATION:Gartlea Community Centre\, Hillfoot Road\, Airdrie\, United Kingdo
+ m
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Hillfoot Road\, Airdrie\, U
+ nited Kingdom;X-APPLE-RADIUS=100;X-TITLE=Gartlea Community Centre:geo:0,0
 END:VEVENT
 BEGIN:VEVENT
 UID:6738@rsobhd.net
@@ -624,6 +489,24 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
  378051,-3.435973
 END:VEVENT
 BEGIN:VEVENT
+UID:7163@rsobhd.net
+DTSTART;TZID=Europe/London;VALUE=DATE:20261229
+DTEND;TZID=Europe/London;VALUE=DATE:20261230
+DTSTAMP:20261112T120329Z
+URL:https://www.rsobhd.net/events/elizabeth-gollan-highland-dancers-twixma
+ s-competition-2/
+SUMMARY:Elizabeth Gollan Highland Dancers Twixmas Competition
+DESCRIPTION:Entries open - 20th November @ 9pm\n\nEntry form\; Elizabeth Go
+ llan Highland Dancers Twixmas Competition 29.12.26
+CATEGORIES:Competition
+LOCATION:Musselburgh Sports Centre\, Newbigging\, Musselburgh\, EH21 7AS\, 
+ United Kingdom
+GEO:55.9406733;-3.048081899999943
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Newbigging\, Musselburgh\, 
+ EH21 7AS\, United Kingdom;X-APPLE-RADIUS=100;X-TITLE=Musselburgh Sports Ce
+ ntre:geo:55.9406733,-3.048081899999943
+END:VEVENT
+BEGIN:VEVENT
 UID:7147@rsobhd.net
 DTSTART:20270117T220000Z
 DTEND:20270117T230000Z
@@ -639,16 +522,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Online via Zoom\, Online vi
  a Zoom\, Canada;X-APPLE-RADIUS=100;X-TITLE=Online via Zoom:geo:0,0
 END:VEVENT
 BEGIN:VTIMEZONE
-TZID:Australia/Brisbane
-X-LIC-LOCATION:Australia/Brisbane
-BEGIN:STANDARD
-DTSTART:20251114T000000
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1000
-TZNAME:AEST
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:Europe/London
 X-LIC-LOCATION:Europe/London
 BEGIN:STANDARD
@@ -657,16 +530,6 @@ TZOFFSETFROM:+0100
 TZOFFSETTO:+0000
 TZNAME:GMT
 END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Australia/Sydney
-X-LIC-LOCATION:Australia/Sydney
-BEGIN:DAYLIGHT
-DTSTART:20261004T030000
-TZOFFSETFROM:+1000
-TZOFFSETTO:+1100
-TZNAME:AEDT
-END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:America/Vancouver
